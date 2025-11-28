@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="MAGnudoafs4DYYf1JFAz" name="ページ1">
+        <mxGraphModel dx="336" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzkyIiBoZWlnaHQ9IjE3OTIiIHZpZXdCb3g9IjAgMCAxNzkyIDE3OTIiPjxwYXRoIGQ9Ik0xNjAwIDE0MDVxMCAxMjAtNzMgMTg5LjV0LTE5NCA2OS41aC04NzRxLTEyMSAwLTE5NC02OS41dC03My0xODkuNXEwLTUzIDMuNS0xMDMuNXQxNC0xMDkgMjYuNS0xMDguNSA0My05Ny41IDYyLTgxIDg1LjUtNTMuNSAxMTEuNS0yMHE5IDAgNDIgMjEuNXQ3NC41IDQ4IDEwOCA0OCAxMzMuNSAyMS41IDEzMy41LTIxLjUgMTA4LTQ4IDc0LjUtNDggNDItMjEuNXE2MSAwIDExMS41IDIwdDg1LjUgNTMuNSA2MiA4MSA0MyA5Ny41IDI2LjUgMTA4LjUgMTQgMTA5IDMuNSAxMDMuNXptLTMyMC04OTNxMCAxNTktMTEyLjUgMjcxLjV0LTI3MS41IDExMi41LTI3MS41LTExMi41LTExMi41LTI3MS41IDExMi41LTI3MS41IDI3MS41LTExMi41IDI3MS41IDExMi41IDExMi41IDI3MS41eiIvPjwvc3ZnPg==;fillColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="20" width="140" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
